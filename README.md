@@ -119,14 +119,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ### License
 
 This project is licensed under the [MIT](LICENSE) License.
-
-### Notes on the README
-
-- **Overview**: A brief introduction to the purpose and functionality of the tool.
-- **Requirements**: Specifies the need for Python and the `aiohttp` library.
-- **Installation Instructions**: Provides detailed steps to clone the repository, set up a virtual environment, and install dependencies.
-- **Usage Instructions**: Describes how to run the tool and handle user input.
-- **Example Output**: Shows what a user can expect when they run the tool.
-- **Contribution and License Sections**: Encourages contributions and clarifies the project's licensing.
-
-This README serves as a comprehensive guide for users and developers looking to understand or contribute to the project.
